@@ -1,0 +1,15 @@
+/* 
+    Created on : Jan 24, 2017, 7:57:05 PM
+    Author     : Kristin Radalia
+*/
+body
+{
+    background-color: whitesmoke;
+}
+span
+{
+color: darkviolet;   
+}
+p{
+    float: inside;
+}
